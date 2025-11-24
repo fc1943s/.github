@@ -9,10 +9,6 @@
 			"path": "../vault"
 		},
 		{
-			"name": "singularity",
-			"path": "../singularity"
-		},
-		{
 			"name": "i574n.github",
 			"path": "../i574n.github"
 		},
@@ -31,6 +27,14 @@
 		{
 			"name": "alphabet",
 			"path": "../alphabet"
+		},
+		{
+			"name": "mold",
+			"path": "C:/Users/i574n/scoop/buckets/mold"
+		},
+		{
+			"name": "singularity",
+			"path": "../singularity"
 		}
 	],
 	"settings": {
@@ -52,6 +56,7 @@
 		"files.associations": {
 			"*.rs": "rust"
 		},
-		"dotnet.defaultSolution": "disable"
+        "dotnet.defaultSolution": "disable",
+        "powershell.cwd": "fc1943s.github"
 	}
 }
