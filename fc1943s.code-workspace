@@ -21,12 +21,16 @@
 			"path": "../spiral"
 		},
 		{
-			"name": "polyglot",
-			"path": "../polyglot"
-		},
-		{
 			"name": "alphabet",
 			"path": "../alphabet"
+		},
+		{
+			"name": "mechahaze-album1",
+			"path": "../mechahaze-album1"
+		},
+		{
+			"name": "polyglot",
+			"path": "../polyglot"
 		},
 		{
 			"name": "mold",
