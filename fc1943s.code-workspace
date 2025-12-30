@@ -61,6 +61,7 @@
 			"*.rs": "rust"
 		},
         "dotnet.defaultSolution": "disable",
-        "powershell.cwd": "fc1943s.github"
+		"powershell.cwd": "fc1943s.github",
+		"discord.enabled": true
 	}
 }
